@@ -1,4 +1,3 @@
-Моя ціль по SMART
-:
-Пройти успішно курс по автоматизації тестування до початку літа та навчитись писати автотести за допомогою java щоб отримати посаду автомейшена у компанії де я зараз працюю Manual QA.
-the end
+My Goal
+
+I'm aiming to finish successfully  the course 'Automation' till the end of Spring. I want to get knowledge how to write autotests using Java and then to get position in my company as a automation QA.
