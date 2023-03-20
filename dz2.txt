@@ -4,3 +4,6 @@ Hurray!
 
 Next will be 'rebase'.
 Glory to Ukraine.
+Some code added.
+And some more.
+Latest commit.
